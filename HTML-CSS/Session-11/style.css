@@ -1,0 +1,42 @@
+* {
+    font-size: 1.2rem;
+    text-align: center;
+
+}
+
+.container {
+    background-color: fuchsia;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+.container div {
+    background-color: gold;
+    width: 5rem;
+    height: 5rem;
+    margin: 1rem;
+    ;
+}
+
+.container1 {
+    height: 20rem;
+    gap: 10px 20px;
+    padding: 0.5rem;
+    background-color: rgb(2, 220, 2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.container1 div {
+    height: 5rem;
+    width: 5rem;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
