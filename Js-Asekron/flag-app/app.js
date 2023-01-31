@@ -71,4 +71,4 @@ const renderCountries = (data) => {
 
 fetchCountryByName("turkey");
 fetchCountryByName("western sahara");
-fetchCountryByName("south africa");
+fetchCountryByName("plastin");
